@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5C32C7</color>
+    <color name="colorPrimaryDark">#5C32C7</color>
+    <color name="colorAccent">#ff68a5</color>
+    <color name="colorBlack">#c2bdbf</color>
+    <color name="colorBlue">#5552FF</color>
+    <color name="home">#5B37B7</color>
+    <color name="search">#C9379D</color>
+    <color name="notifications">#E6A919</color>
+    <color name="profile">#1194AA</color>
+</resources>
